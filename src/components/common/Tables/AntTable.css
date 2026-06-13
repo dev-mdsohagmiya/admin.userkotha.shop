@@ -1,0 +1,57 @@
+/* Custom styles for table header */
+.ant-table-wrapper .ant-table-thead > tr > th {
+  background-color: #f9f9f9;
+  color: #000000;
+  font-size: 12px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.ant-table-wrapper .ant-table-tbody > tr > td {
+  color: #000000;
+  font-size: 12px;
+}
+
+/* Custom styles for table row hover and selection */
+.ant-table-wrapper .ant-table-tbody > tr.ant-table-row:hover > td,
+.ant-table-wrapper
+  .ant-table-tbody
+  > tr.ant-table-row
+  > .ant-table-cell-row-hover {
+  background: #f5f5f5 !important;
+}
+
+
+/* Selection background color - especially for fixed columns */
+.ant-table-wrapper .ant-table-tbody > tr.ant-table-row-selected > td,
+.ant-table-wrapper
+  .ant-table-tbody
+  > tr.ant-table-row-selected
+  > .ant-table-cell-fix-left,
+.ant-table-wrapper
+  .ant-table-tbody
+  > tr.ant-table-row-selected
+  > .ant-table-cell-fix-right {
+  background-color: #fff0ea !important;
+}
+
+.ant-table-wrapper {
+  background-color: #fff;
+  width: 100%;
+  overflow-x: auto;
+}
+
+@media (min-width: 1024px) {
+  .ant-table-wrapper.sidebar-expanded {
+    max-width: calc(100vw - 295px);
+  }
+
+  .ant-table-wrapper.sidebar-collapsed {
+    max-width: calc(100vw - 125px);
+  }
+}
+
+.fix-right-column {
+  right: -2px !important;
+}
+
+/* Print styles moved to src/styles/print.css */

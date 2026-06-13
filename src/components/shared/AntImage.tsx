@@ -1,5 +1,5 @@
 import { Image } from "antd";
-import { config } from "../../config";
+import { getImageUrl } from "../../utils/getImageUrl";
 
 interface AntImageProps {
   src: string;
@@ -26,7 +26,9 @@ export default function AntImage({
   preview = true,
   fallback = "/fallback.png",
 }: AntImageProps) {
-  const finalSrc = accessurl ? `${config.image_access_url}/${src}` : src;
+  // When accessurl is set, resolve via the image base URL — but a full
+  // http/https src is returned as-is (no base prepend).
+  const finalSrc = accessurl ? getImageUrl(src, fallback) : src;
 
   return (
     <Image

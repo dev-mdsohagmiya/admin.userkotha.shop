@@ -1,6 +1,6 @@
 {
-  "name": "erp-amzadfood",
-  "description": "Professional ERP Software Amzad Food",
+  "name": "erp-userkotha",
+  "description": "Professional ERP Software for UserKotha.Shop",
   "private": true,
   "version": "2.0.2",
   "type": "module",

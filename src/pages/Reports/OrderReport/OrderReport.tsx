@@ -83,7 +83,7 @@ const OrderReport = () => {
   return (
     <>
       <PageMeta
-        title="Order Report | Amzad Food ERP"
+        title="Order Report | UserKotha.Shop ERP"
         description="Comprehensive order analytics and reports"
       />
 

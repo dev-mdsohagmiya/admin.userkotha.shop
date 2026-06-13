@@ -98,7 +98,7 @@ const UpdateEmployeeModal: React.FC<UpdateEmployeeModalProps> = ({
           >
             <Input
               placeholder="e.g., john.doe@company.com"
-              disabled={data.email === "superadmin@amzadfood.com"}
+              disabled={data.email === "admin@userkotha.shop"}
             />
           </Form.Item>
         </div>

@@ -137,7 +137,7 @@ const DeliveryChargeList = () => {
   return (
     <div>
       <PageMeta
-        title="Delivery Charges | Amzad Food ERP"
+        title="Delivery Charges | UserKotha.Shop ERP"
         description="Manage Delivery Charges"
       />
 

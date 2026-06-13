@@ -466,7 +466,7 @@ const IncompleteOrderList = () => {
   return (
     <div>
       <PageMeta
-        title="Incomplete Orders | Amzad Food"
+        title="Incomplete Orders | UserKotha.Shop"
         description="List of incomplete orders"
       />
       <PageHeader

@@ -81,7 +81,7 @@ const ProfitAndSalesReport = () => {
   return (
     <>
       <PageMeta
-        title="Profit & Sales Report | Amzad Food ERP"
+        title="Profit & Sales Report | UserKotha.Shop ERP"
         description="Profit and sales analytics overview"
       />
 

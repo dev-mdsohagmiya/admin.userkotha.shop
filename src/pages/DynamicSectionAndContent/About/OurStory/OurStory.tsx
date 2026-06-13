@@ -76,7 +76,7 @@ const OurStory = () => {
   return (
     <div>
       <PageMeta
-        title="Our Story | Amzad Food ERP"
+        title="Our Story | UserKotha.Shop ERP"
         description="Manage Our Story section"
       />
 

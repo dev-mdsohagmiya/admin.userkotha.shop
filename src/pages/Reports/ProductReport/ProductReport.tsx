@@ -84,7 +84,7 @@ const ProductReport = () => {
   return (
     <div className="animate-in fade-in duration-700">
       <PageMeta
-        title="Product Report | Amzad Food ERP"
+        title="Product Report | UserKotha.Shop ERP"
         description="Comprehensive product analytics and reports"
       />
 

@@ -367,7 +367,7 @@ const BlogsList = () => {
   return (
     <div>
       <PageMeta
-        title="Blogs | Amzad Food ERP"
+        title="Blogs | UserKotha.Shop ERP"
         description="Manage and view all blog posts"
       />
       <div className="">

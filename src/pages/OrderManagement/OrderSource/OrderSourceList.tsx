@@ -202,8 +202,8 @@ const OrderSourceList = () => {
   return (
     <div>
       <PageMeta
-        title="Order Source | Amzad Food ERP"
-        description="Manage order sources for Amzad Food"
+        title="Order Source | UserKotha.Shop ERP"
+        description="Manage order sources for UserKotha.Shop"
       />
 
       <PageHeader

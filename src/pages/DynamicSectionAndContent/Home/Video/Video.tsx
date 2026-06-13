@@ -94,7 +94,7 @@ const Video = () => {
   return (
     <div>
       <PageMeta
-        title="Customer Reviews | Amzad Food ERP"
+        title="Customer Reviews | UserKotha.Shop ERP"
         description="Manage Customer Reviews section"
       />
 
@@ -169,7 +169,7 @@ const Video = () => {
                                 rel="noopener noreferrer"
                                 className="text-primary"
                               >
-                                Amzad Food YouTube Channel
+                                UserKotha.Shop YouTube Channel
                               </a>{" "}
                               to get video links
                             </div>

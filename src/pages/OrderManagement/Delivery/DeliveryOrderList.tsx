@@ -1363,7 +1363,7 @@ Address: ${record.address || "N/A"}`;
   return (
     <div className="pb-10">
       <PageMeta
-        title="Delivery Management | Amzad Food"
+        title="Delivery Management | UserKotha.Shop"
         description="Manage and track orders by their delivery methods including Steadfast, RedX, Pathao, and more."
       />
       <PageHeader

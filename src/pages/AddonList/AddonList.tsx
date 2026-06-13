@@ -242,7 +242,7 @@ const AddonList = () => {
   return (
     <div>
       <PageMeta
-        title="Addons | Amzad Food ERP"
+        title="Addons | UserKotha.Shop ERP"
         description="Manage Product Addons"
       />
       <div className="">

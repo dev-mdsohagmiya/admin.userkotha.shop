@@ -92,7 +92,7 @@ const OrderPickingSheetPrint = {
           
           <div class="page-container">
             <div class="header">
-              <img src="${logoUrl}" alt="Amzad Food" />
+              <img src="${logoUrl}" alt="UserKotha.Shop" />
               <div class="title">Warehouse Picking List</div>
               <div class="subtitle">
                 Total Orders: <strong>${orders.length}</strong> | 
@@ -121,7 +121,7 @@ const OrderPickingSheetPrint = {
             </div>
 
             <div class="footer">
-              <p>Amzad Food - Warehouse Management System</p>
+              <p>UserKotha.Shop - Warehouse Management System</p>
               <p>Please check quality before packing.</p>
             </div>
           </div>

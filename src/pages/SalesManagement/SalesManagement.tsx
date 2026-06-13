@@ -54,7 +54,7 @@ export const SalesManagement: React.FC = () => {
   return (
     <div className="space-y-6">
       <PageMeta
-        title="Sales Management | Amzad Food ERP"
+        title="Sales Management | UserKotha.Shop ERP"
         description="This is Sales Management page"
       />
       <PageHeader

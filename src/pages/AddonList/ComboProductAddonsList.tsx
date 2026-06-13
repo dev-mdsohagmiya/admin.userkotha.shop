@@ -237,7 +237,7 @@ const ComboProductAddonsList = () => {
   return (
     <div>
       <PageMeta
-        title={`Addons - ${productData?.data?.name || "Combo Product"} | Amzad Food ERP`}
+        title={`Addons - ${productData?.data?.name || "Combo Product"} | UserKotha.Shop ERP`}
         description="Manage Combo Product Addons"
       />
       <div className="">

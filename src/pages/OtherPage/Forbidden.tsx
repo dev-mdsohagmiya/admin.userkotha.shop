@@ -7,7 +7,7 @@ export default function Forbidden() {
   return (
     <>
       <PageMeta
-        title="403 Access Denied | Amzad Food ERP"
+        title="403 Access Denied | UserKotha.Shop ERP"
         description="You don't have permission to access this page. Contact your administrator if you believe this is an error."
       />
 
@@ -190,7 +190,7 @@ export default function Forbidden() {
           {/* Footer */}
           <div className="mt-12 pt-6 border-t border-gray-200 border-opacity-50">
             <p className="text-xs text-gray-400">
-              &copy; {new Date().getFullYear()} Amzad Food ERP • Protected
+              &copy; {new Date().getFullYear()} UserKotha.Shop ERP • Protected
               Access
             </p>
           </div>

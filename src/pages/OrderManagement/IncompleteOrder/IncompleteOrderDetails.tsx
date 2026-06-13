@@ -530,7 +530,7 @@ const IncompleteOrderDetails = () => {
     <>
       <div className="pb-4 md:pb-10">
         <PageMeta
-          title="Incomplete Order | Amzad Food"
+          title="Incomplete Order | UserKotha.Shop"
           description="Complete your order"
         />
 

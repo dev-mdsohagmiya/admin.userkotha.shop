@@ -180,7 +180,7 @@ const PromiseSectionList = () => {
   return (
     <div>
       <PageMeta
-        title="Promise Sections | Amzad Food ERP"
+        title="Promise Sections | UserKotha.Shop ERP"
         description="Manage promise sections for homepage"
       />
       <div>

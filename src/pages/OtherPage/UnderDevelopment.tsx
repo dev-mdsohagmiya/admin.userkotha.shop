@@ -9,7 +9,7 @@ const UnderDevelopment = () => {
   return (
     <div className="flex min-h-[80vh] flex-col items-center justify-center bg-gray-50 px-4 text-center">
       <PageMeta
-        title="Under Development | Amzad Food ERP"
+        title="Under Development | UserKotha.Shop ERP"
         description="This page is currently under development."
       />
       <Wrench size={96} className="text-green-600 mb-4" />

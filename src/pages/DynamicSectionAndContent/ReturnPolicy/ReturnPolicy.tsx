@@ -83,7 +83,7 @@ const ReturnPolicy = () => {
     return (
       <div>
         <PageMeta
-          title="Return Policy | Amzad Food ERP"
+          title="Return Policy | UserKotha.Shop ERP"
           description="Manage Return Policy page"
         />
         <PageHeader
@@ -102,7 +102,7 @@ const ReturnPolicy = () => {
   return (
     <div>
       <PageMeta
-        title="Return Policy | Amzad Food ERP"
+        title="Return Policy | UserKotha.Shop ERP"
         description="Manage Return Policy page"
       />
 

@@ -1544,8 +1544,8 @@ Address: ${address || "N/A"}`;
       <PageMeta
         title={
           activeTab === "INCOMPLETE"
-            ? "Incomplete Orders | Amzad Food"
-            : "Orders | Amzad Food"
+            ? "Incomplete Orders | UserKotha.Shop"
+            : "Orders | UserKotha.Shop"
         }
         description={
           activeTab === "INCOMPLETE"

@@ -225,7 +225,7 @@ const PrintComponent: React.FC<PrintComponentProps> = ({
           <body>
             <div class="header">
               <div class="company-name">${
-                config.companyName || "Amzad Food Industries"
+                config.companyName || "UserKotha.Shop Industries"
               }</div>
               <div class="document-title">${
                 config.documentTitle || "Document"
@@ -317,7 +317,7 @@ const PrintComponent: React.FC<PrintComponentProps> = ({
                 config.footerText ||
                 "Generated on " + dayjs().format("DD/MM/YYYY HH:mm:ss")
               }</p>
-              <p>Amzad Food Industries - ERP System</p>
+              <p>UserKotha.Shop Industries - ERP System</p>
             </div>
           </body>
         </html>

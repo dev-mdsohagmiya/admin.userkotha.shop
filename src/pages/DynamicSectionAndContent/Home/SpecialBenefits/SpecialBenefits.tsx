@@ -79,7 +79,7 @@ const SpecialBenefits = () => {
   return (
     <div>
       <PageMeta
-        title="Special Benefits | Amzad Food ERP"
+        title="Special Benefits | UserKotha.Shop ERP"
         description="Manage Special Benefits section"
       />
 

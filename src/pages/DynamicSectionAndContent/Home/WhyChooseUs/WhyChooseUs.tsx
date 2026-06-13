@@ -93,7 +93,7 @@ const WhyChooseUs = () => {
   return (
     <div>
       <PageMeta
-        title="Why Choose Us | Amzad Food ERP"
+        title="Why Choose Us | UserKotha.Shop ERP"
         description="Manage Why Choose Us section"
       />
 

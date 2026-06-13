@@ -101,7 +101,7 @@ const DeliveryCharge = () => {
   return (
     <div>
       <PageMeta
-        title="Delivery Charge | Amzad Food ERP"
+        title="Delivery Charge | UserKotha.Shop ERP"
         description="Manage Delivery Charge"
       />
 

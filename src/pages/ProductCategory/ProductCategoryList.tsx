@@ -339,7 +339,7 @@ const ProductCategoryList = () => {
   return (
     <div>
       <PageMeta
-        title="Product Categories | Amzad Food ERP"
+        title="Product Categories | UserKotha.Shop ERP"
         description="This is Product categories page"
       />
       <div>

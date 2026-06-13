@@ -156,8 +156,8 @@ const ShippingNoteList = () => {
   return (
     <div>
       <PageMeta
-        title="Shipping Note | Amzad Food ERP"
-        description="Manage shipping notes for Amzad Food"
+        title="Shipping Note | UserKotha.Shop ERP"
+        description="Manage shipping notes for UserKotha.Shop"
       />
 
       <PageHeader

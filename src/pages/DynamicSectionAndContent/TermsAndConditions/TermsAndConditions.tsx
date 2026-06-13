@@ -84,7 +84,7 @@ const TermsAndConditions = () => {
   return (
     <div>
       <PageMeta
-        title="Terms & Conditions | Amzad Food ERP"
+        title="Terms & Conditions | UserKotha.Shop ERP"
         description="Manage Terms & Conditions page"
       />
 

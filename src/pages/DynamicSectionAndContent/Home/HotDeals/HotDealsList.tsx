@@ -349,7 +349,7 @@ const HotDealsList = () => {
   return (
     <div>
       <PageMeta
-        title="Hot Deals | Amzad Food ERP"
+        title="Hot Deals | UserKotha.Shop ERP"
         description="This is Hot Deals page"
       />
 

@@ -130,8 +130,8 @@ const AutoSmsList = () => {
   return (
     <>
       <PageMeta
-        title="Auto SMS Rules | Amzad Food"
-        description="Manage automatic SMS rules for Amzad Food"
+        title="Auto SMS Rules | UserKotha.Shop"
+        description="Manage automatic SMS rules for UserKotha.Shop"
       />
       <PageHeader
         title="Auto SMS Rules"
@@ -140,7 +140,7 @@ const AutoSmsList = () => {
           { title: "Marketing" },
           { title: "Auto SMS Rules" },
         ]}
-        subtitle="Manage automatic SMS rules for Amzad Food"
+        subtitle="Manage automatic SMS rules for UserKotha.Shop"
         extra={
           allActions.includes("create") && (
             <Button

@@ -575,12 +575,12 @@ const Sidebar: React.FC = () => {
         </Link>
       </div>
       <div className="flex flex-col flex-1 overflow-hidden">
-        <div className="flex-1 px-5 py-5 overflow-y-auto duration-300 ease-linear no-scrollbar">
+        <div className="flex-1 px-5 pt-4 pb-5 overflow-y-auto duration-300 ease-linear no-scrollbar">
           <nav className="mb-4">
             <div className="flex flex-col gap-4">
               <div>
                 <h2
-                  className={`mb-4 text-xs uppercase flex leading-[20px] text-gray-400 ${
+                  className={`mb-0 text-xs uppercase flex leading-[20px] text-gray-400 ${
                     !isExpanded ? "lg:justify-center" : "justify-start"
                   }`}
                 >

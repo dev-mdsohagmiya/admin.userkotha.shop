@@ -182,7 +182,7 @@ const CounterSectionList = () => {
   return (
     <div>
       <PageMeta
-        title="Counter Sections | Amzad Food ERP"
+        title="Counter Sections | UserKotha.Shop ERP"
         description="Manage counter sections for homepage"
       />
       <div>

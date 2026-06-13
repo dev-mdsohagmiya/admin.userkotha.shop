@@ -395,7 +395,7 @@ const MaterialsList = () => {
   return (
     <>
       <PageMeta
-        title="Materials List | Amzad Food ERP"
+        title="Materials List | UserKotha.Shop ERP"
         description="This is Materials List page"
       />
       <PageHeader

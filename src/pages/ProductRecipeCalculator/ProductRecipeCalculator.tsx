@@ -150,7 +150,7 @@ const ProductRecipeCalculator = () => {
 
   return (
     <>
-      <PageMeta title="Product Recipe Calculator - Amzad Food" description="Manage and view saved product recipes and costs." />
+      <PageMeta title="Product Recipe Calculator - UserKotha.Shop" description="Manage and view saved product recipes and costs." />
       <PageHeader
         title="Product Recipe Calculator"
         subtitle="Calculate and manage production costs for your recipes."

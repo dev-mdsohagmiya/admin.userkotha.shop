@@ -252,7 +252,7 @@ const EmployeesList = () => {
                     <Button
                       type="text"
                       danger
-                      disabled={record?.email === "superadmin@amzadfood.com"}
+                      disabled={record?.email === "admin@userkotha.shop"}
                       icon={<FiTrash2 />}
                       onClick={() => handleDelete(record.id)}
                       style={{
@@ -295,7 +295,7 @@ const EmployeesList = () => {
   return (
     <div>
       <PageMeta
-        title="Admin Users | Amzad Food ERP"
+        title="Admin Users | UserKotha.Shop ERP"
         description="Manage admin users"
       />
 

@@ -341,7 +341,7 @@ export const POSSystem: React.FC = () => {
   return (
     <div className="space-y-4">
       <PageMeta
-        title="Sales Management | Amzad Food ERP"
+        title="Sales Management | UserKotha.Shop ERP"
         description="This is Sales Management page"
       />
       {/* Search and Actions Bar */}

@@ -365,7 +365,7 @@ const NewOrder = () => {
       <div className="pb-4 md:pb-10 mt-3">
         <PageMeta
           title="New Order"
-          description="Create a new order for Amzad Food"
+          description="Create a new order for UserKotha.Shop"
         />
 
         {/* Stats Cards */}

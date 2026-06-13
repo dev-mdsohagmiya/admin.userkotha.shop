@@ -335,7 +335,7 @@ const ProductTypeList = () => {
   return (
     <div>
       <PageMeta
-        title="Product Types | Amzad Food ERP"
+        title="Product Types | UserKotha.Shop ERP"
         description="This is product types page"
       />
       <div>

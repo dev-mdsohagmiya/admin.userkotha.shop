@@ -40,7 +40,7 @@ const AboutContent = () => {
   return (
     <div>
       <PageMeta
-        title="About Section | Amzad Food ERP"
+        title="About Section | UserKotha.Shop ERP"
         description="Manage about content"
       />
 

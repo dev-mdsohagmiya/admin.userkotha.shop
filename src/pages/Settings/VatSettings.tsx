@@ -285,7 +285,7 @@ const VatSettings = () => {
   return (
     <div>
       <PageMeta
-        title="VAT Settings | Amzad Food ERP"
+        title="VAT Settings | UserKotha.Shop ERP"
         description="This is VAT settings page"
       />
 

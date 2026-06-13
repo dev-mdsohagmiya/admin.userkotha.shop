@@ -86,7 +86,7 @@ const Topbar = () => {
   return (
     <div>
       <PageMeta
-        title="Topbar | Amzad Food ERP"
+        title="Topbar | UserKotha.Shop ERP"
         description="Manage Topbar section"
       />
 

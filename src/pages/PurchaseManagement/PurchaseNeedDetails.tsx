@@ -77,7 +77,7 @@ const PurchaseNeedDetails: React.FC = () => {
   // const printConfig: PrintConfig = {
   //   type: "custom",
   //   title: `Purchase Need - ${purchaseNeed.id}`,
-  //   companyName: "Amzad Food Industries",
+  //   companyName: "UserKotha.Shop Industries",
   //   documentTitle: "Purchase Need Request",
   //   headerInfo: [
   //     { label: "Supplier Name", value: purchaseNeed.supplierName },

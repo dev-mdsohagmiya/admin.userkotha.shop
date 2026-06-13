@@ -934,7 +934,7 @@ const OrderDetails = () => {
     <div className="pb-4 md:pb-10">
       <PageMeta
         title="Order Details"
-        description="View and update order details for Amzad Food"
+        description="View and update order details for UserKotha.Shop"
       />
 
       <div className="flex items-center justify-between mb-6">

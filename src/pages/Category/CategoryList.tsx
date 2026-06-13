@@ -345,7 +345,7 @@ const CategoriesList = () => {
   return (
     <div>
       <PageMeta
-        title=" Categories | Amzad Food ERP"
+        title=" Categories | UserKotha.Shop ERP"
         description="This is categories page"
       />
       <div>

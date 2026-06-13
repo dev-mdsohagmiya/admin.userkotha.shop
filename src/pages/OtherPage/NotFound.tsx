@@ -44,8 +44,8 @@ export default function NotFound() {
   return (
     <>
       <PageMeta
-        title="404 Page Not Found | Amzad Food ERP"
-        description="The page you are looking for cannot be found in Amzad Food ERP. Return to the dashboard or check the URL."
+        title="404 Page Not Found | UserKotha.Shop ERP"
+        description="The page you are looking for cannot be found in UserKotha.Shop ERP. Return to the dashboard or check the URL."
       />
       <div className="relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1 bg-gray-50">
         <div className="mx-auto w-full max-w-[242px] text-center sm:max-w-[472px]">
@@ -78,7 +78,7 @@ export default function NotFound() {
           </div>
 
           <p className="text-sm text-center text-gray-500 mt-5">
-            &copy; {new Date().getFullYear()} - Amzad Food ERP
+            &copy; {new Date().getFullYear()} - UserKotha.Shop ERP
           </p>
         </div>
       </div>

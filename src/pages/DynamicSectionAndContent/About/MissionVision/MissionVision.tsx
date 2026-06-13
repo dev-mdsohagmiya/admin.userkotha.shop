@@ -84,7 +84,7 @@ const MissionVision = () => {
   return (
     <div>
       <PageMeta
-        title="Mission & Vision | Amzad Food ERP"
+        title="Mission & Vision | UserKotha.Shop ERP"
         description="Manage Mission & Vision section"
       />
 

@@ -87,7 +87,7 @@ const EmployeeSalesReport = () => {
   return (
     <>
       <PageMeta
-        title="Employee Sales Report | Amzad Food ERP"
+        title="Employee Sales Report | UserKotha.Shop ERP"
         description="View employee sales performance and statistics"
       />
       <PageHeader

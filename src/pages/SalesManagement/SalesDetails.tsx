@@ -176,7 +176,7 @@ const SalesDetails = () => {
         <Row gutter={[16, 16]} justify="space-between" align="top">
           <Col>
             <div className="">
-              <h3 className="text-xl font-semibold">AMZAD FOOD</h3>
+              <h3 className="text-xl font-semibold">UserKotha.Shop</h3>
               <p className="text-sm mt-1">ERP System Invoice</p>
             </div>
           </Col>

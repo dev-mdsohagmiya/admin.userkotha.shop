@@ -34,7 +34,7 @@ Total: Tk ${dueAmount.toLocaleString()}`;
         <div class="sticker">
           <div class="sticker-header">
             <div class="header-left">
-              <h1 class="brand-name">Amzad Food</h1>
+              <h1 class="brand-name">UserKotha.Shop</h1>
               <p class="hotline">Hotline: 09613824072</p>
               <p class="meta">DATE: ${date}</p>
               <p class="meta">Courier: ${order.deliveryMethod || "N/A"}</p>

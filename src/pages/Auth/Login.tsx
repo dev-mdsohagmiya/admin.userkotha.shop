@@ -126,12 +126,13 @@ const Login = () => {
 
           {/* Logo */}
           <div className="relative">
-            <img
-              src="/images/logo/logo.png"
-              alt="UserKotha.Shop"
-              className="h-11 w-auto object-contain"
-              style={{ filter: "brightness(0) invert(1)" }}
-            />
+            <span className="inline-flex items-center bg-white rounded-2xl px-5 py-3">
+              <img
+                src="/images/logo/logo.png"
+                alt="UserKotha.Shop"
+                className="h-14 w-auto object-contain"
+              />
+            </span>
           </div>
 
           {/* Center content */}
@@ -140,9 +141,9 @@ const Login = () => {
               className="font-bold leading-[1.15] tracking-tight"
               style={{ fontSize: "clamp(1.9rem, 2.6vw, 2.6rem)" }}
             >
-              Manage your food
+              Manage your full
               <br />
-              business with ease
+              e-commerce business
             </h1>
             <p className="mt-4 text-[15px] leading-relaxed text-white/80 max-w-[360px]">
               Inventory, orders, suppliers and analytics — everything you need,
@@ -207,7 +208,7 @@ const Login = () => {
               >
                 <Input
                   prefix={<MailOutlined style={{ color: "#9ca3af" }} />}
-                  placeholder="you@amzadfood.com"
+                  placeholder="you@userkotha.shop"
                   size="large"
                   style={{ borderRadius: 10 }}
                 />

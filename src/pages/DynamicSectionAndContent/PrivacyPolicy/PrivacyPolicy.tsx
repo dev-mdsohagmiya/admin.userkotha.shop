@@ -84,7 +84,7 @@ const PrivacyPolicy = () => {
   return (
     <div>
       <PageMeta
-        title="Privacy Policy | Amzad Food ERP"
+        title="Privacy Policy | UserKotha.Shop ERP"
         description="Manage Privacy Policy page"
       />
 

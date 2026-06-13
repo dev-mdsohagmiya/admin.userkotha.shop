@@ -33,8 +33,8 @@ function App() {
   return (
     <div className="space-y-4">
       <PageMeta
-        title="Dashboard | Amzad Food ERP"
-        description="Welcome to the Amzad Food ERP Dashboard. View inventory, production, sales, and reports all in one place."
+        title="Dashboard | UserKotha.Shop ERP"
+        description="Welcome to the UserKotha.Shop ERP Dashboard. View inventory, production, sales, and reports all in one place."
       />
 
       <DashboardStats

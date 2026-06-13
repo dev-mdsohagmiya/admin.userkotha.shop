@@ -256,7 +256,7 @@ const generateInvoiceHTML = (data: IOrder) => {
         <!-- Header -->
         <div class="header">
           <div class="header-left">
-            <h1 class="brand-name">Amzad Food</h1>
+            <h1 class="brand-name">UserKotha.Shop</h1>
             <p class="hotline">📞 Mobile: 09613824072</p>
           </div>
           <div class="header-right">

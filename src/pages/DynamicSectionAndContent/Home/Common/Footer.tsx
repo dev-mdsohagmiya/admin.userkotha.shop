@@ -194,7 +194,7 @@ const Footer = () => {
                             name === 0
                               ? "e.g. 9:00 AM - 10:00 PM"
                               : name === 1
-                                ? "e.g. info@amzadfood.com"
+                                ? "e.g. info@userkotha.shop"
                                 : name === 2
                                   ? "e.g. Dhaka, Bangladesh"
                                   : "e.g. Fast Delivery"

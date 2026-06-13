@@ -67,7 +67,7 @@ const CreateRecipe = () => {
 
   return (
     <>
-      <PageMeta title="Create Recipe - Amzad Food" description="Create a new recipe calculation for production." />
+      <PageMeta title="Create Recipe - UserKotha.Shop" description="Create a new recipe calculation for production." />
       <PageHeader
         title="Product Recipe Ratio & Price"
         subtitle="Calculate material costs based on production ratio percentage."

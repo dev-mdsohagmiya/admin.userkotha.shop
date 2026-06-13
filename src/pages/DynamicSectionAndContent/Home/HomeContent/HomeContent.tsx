@@ -48,7 +48,7 @@ const HomeContent = () => {
   return (
     <div>
       <PageMeta
-        title="Home Section | Amzad Food ERP"
+        title="Home Section | UserKotha.Shop ERP"
         description="Manage home content"
       />
 

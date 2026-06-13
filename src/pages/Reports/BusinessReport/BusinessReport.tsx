@@ -85,7 +85,7 @@ const BusinessReport = () => {
   return (
     <div className="animate-in fade-in duration-700 pb-10">
       <PageMeta
-        title="Business Reports | Amzad Food ERP"
+        title="Business Reports | UserKotha.Shop ERP"
         description="Comprehensive analytics across orders, logistics, and inventory"
       />
       <PageHeader

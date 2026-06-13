@@ -1536,7 +1536,7 @@ Address: ${address || "N/A"}`;
   return (
     <div className="pb-10">
       <PageMeta
-        title="Warehouse Orders | Amzad Food"
+        title="Warehouse Orders | UserKotha.Shop"
         description="Manage warehouse parcel dispatch, printing, and shipping."
       />
 

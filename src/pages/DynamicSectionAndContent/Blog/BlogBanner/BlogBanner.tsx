@@ -79,7 +79,7 @@ const BlogBanner = () => {
   return (
     <div>
       <PageMeta
-        title="Blog Banner | Amzad Food ERP"
+        title="Blog Banner | UserKotha.Shop ERP"
         description="Manage Blog Banner section"
       />
 

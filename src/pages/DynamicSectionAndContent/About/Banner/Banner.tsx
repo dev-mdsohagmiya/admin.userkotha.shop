@@ -84,7 +84,7 @@ const Banner = () => {
   return (
     <div>
       <PageMeta
-        title="About Banner | Amzad Food ERP"
+        title="About Banner | UserKotha.Shop ERP"
         description="Manage About Banner section"
       />
 
@@ -110,7 +110,7 @@ const Banner = () => {
           name="title"
           rules={[{ required: true, message: "Title is required" }]}
         >
-          <Input placeholder="About Amzad Food" />
+          <Input placeholder="About UserKotha.Shop" />
         </Form.Item>
 
         {/* Description */}

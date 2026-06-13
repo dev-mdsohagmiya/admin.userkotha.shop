@@ -133,7 +133,7 @@ const UpdateRecipe = () => {
   return (
     <>
       <PageMeta
-        title="Update Recipe - Amzad Food"
+        title="Update Recipe - UserKotha.Shop"
         description="Modify existing recipe calculation."
       />
       <PageHeader

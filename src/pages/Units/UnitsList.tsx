@@ -290,7 +290,7 @@ const UnitsList = () => {
   return (
     <div>
       <PageMeta
-        title="Product Units | Amzad Food ERP"
+        title="Product Units | UserKotha.Shop ERP"
         description="This is Product units page"
       />
 

@@ -82,7 +82,7 @@ const CoreValues = () => {
   return (
     <div>
       <PageMeta
-        title="Core Values | Amzad Food ERP"
+        title="Core Values | UserKotha.Shop ERP"
         description="Manage Core Values section"
       />
 

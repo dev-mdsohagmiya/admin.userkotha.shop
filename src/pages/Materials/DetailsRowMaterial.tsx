@@ -88,7 +88,7 @@ const DetailsRawMaterial = () => {
   return (
     <div className="relative">
       <PageMeta
-        title={`${rawMaterial.name} - Raw Material Details | Amzad Food ERP`}
+        title={`${rawMaterial.name} - Raw Material Details | UserKotha.Shop ERP`}
         description={`Details for ${rawMaterial.name} raw material`}
       />
 

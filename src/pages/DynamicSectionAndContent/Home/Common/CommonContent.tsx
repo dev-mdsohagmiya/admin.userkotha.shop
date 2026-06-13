@@ -52,7 +52,7 @@ const CommonContent = () => {
   return (
     <div>
       <PageMeta
-        title="Common Sections | Amzad Food ERP"
+        title="Common Sections | UserKotha.Shop ERP"
         description="Manage common sections: Topbar, Footer, and Ads"
       />
       <PageHeader

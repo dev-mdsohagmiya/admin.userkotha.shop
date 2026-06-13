@@ -111,7 +111,7 @@ const PurchaseNeedList: React.FC = () => {
   //   const printConfig: PrintConfig = {
   //     type: "custom",
   //     title: "Purchase Need List",
-  //     companyName: "Amzad Food Industries",
+  //     companyName: "UserKotha.Shop Industries",
   //     documentTitle: "Purchase Need List Report",
   //     tableData: {
   //       columns: [

@@ -303,7 +303,7 @@ layer(base);
 
 /* Custom Toastify Styles */
 :root {
-  --toastify-color-success: #ff3d0a;
+  --toastify-color-success: #12b76a;
   --toastify-color-error: #f04438;
   --toastify-color-warning: #f79009;
   --toastify-color-info: #2e90fa;
@@ -319,7 +319,7 @@ layer(base);
 }
 
 .Toastify__toast--success {
-  border-left: 6px solid #ff3d0a !important;
+  border-left: 6px solid #12b76a !important;
 }
 
 .Toastify__toast--error {
@@ -331,7 +331,7 @@ layer(base);
 }
 
 .Toastify__toast--success.Toastify__toast-theme--colored {
-  background-color: #ff3d0a !important;
+  background-color: #12b76a !important;
 }
 
 .Toastify__toast--error.Toastify__toast-theme--colored {

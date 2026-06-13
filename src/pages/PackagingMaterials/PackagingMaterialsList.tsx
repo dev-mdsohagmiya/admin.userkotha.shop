@@ -232,7 +232,7 @@ const PackagingMaterialsList = () => {
   return (
     <div className="relative">
       <PageMeta
-        title="Packaging Materials | Amzad Food ERP"
+        title="Packaging Materials | UserKotha.Shop ERP"
         description="Packaging Materials page"
       />
       <PageHeader

@@ -215,7 +215,7 @@ const CouponList = () => {
   return (
     <div>
       <PageMeta
-        title="Coupons | Amzad Food ERP"
+        title="Coupons | UserKotha.Shop ERP"
         description="Manage Discount Coupons"
       />
 

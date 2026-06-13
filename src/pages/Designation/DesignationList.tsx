@@ -290,7 +290,7 @@ const DesignationsList = () => {
   return (
     <div>
       <PageMeta
-        title="Designations | Amzad Food ERP"
+        title="Designations | UserKotha.Shop ERP"
         description="Manage designations"
       />
 

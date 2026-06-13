@@ -250,7 +250,7 @@ const MaterialDamageList = () => {
   return (
     <div className="relative">
       <PageMeta
-        title="Raw Material Damage/Adjustment | Amzad Food ERP"
+        title="Raw Material Damage/Adjustment | UserKotha.Shop ERP"
         description="Calculated damage and adjustment list for raw materials"
       />
 
